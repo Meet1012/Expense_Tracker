@@ -1,6 +1,6 @@
 # 📊 Expense Tracker
 
-**A simple command-line application for tracking your expenses!** This tool allows users to manage their expenses efficiently, providing functionalities to add, delete, update, summarize, and display expenses.
+**A simple command-line application for tracking your expenses!** This tool allows users to manage their expenses efficiently, providing functionalities to add, delete, update, summarize, and display expenses. You can check out the project details [Expense Tracker](https://roadmap.sh/projects/expense-tracker).
 
 ## 🚀 Features: 
 - **Add Expenses:** Track your spending by adding new expenses with descriptions and amounts. 
